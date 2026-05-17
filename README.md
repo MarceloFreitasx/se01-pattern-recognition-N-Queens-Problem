@@ -1,0 +1,1 @@
+# se01-pattern-recognition-N-Queens-Problem
