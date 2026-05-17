@@ -14,12 +14,6 @@
 
 ---
 
-## Overleaf Report Link
-
-[Click here to access the report](_(fill in with your Overleaf link)_)
-
----
-
 ## Project Description
 
 This project implements and compares four algorithms for solving the N-Queens problem:
